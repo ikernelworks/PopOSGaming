@@ -1,1 +1,1 @@
-Basic script to enable full support to Xbox Series S/X Controller in Pop OS 22.04
+Scripts basicos para preparar Pop OS 22.04 para Gaming mas fluido
